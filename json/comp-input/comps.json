@@ -1,0 +1,22 @@
+{
+  "civilId": "11142",
+  "earthMath": "Haversines",
+  "discipline": "hg",
+  "location": "Big Spring, Texas, USA",
+  "to": "2016-08-13",
+  "compName": "2016 Big Spring Hang Gliding Nationals Open Class",
+  "from": "2016-08-07",
+  "utcOffset": {
+    "timeZoneMinutes": -300
+  },
+  "earth": {
+    "sphere": {
+      "radius": "6371000.0 m"
+    }
+  },
+  "give": {
+    "giveDistance": null,
+    "giveFraction": 0.005
+  },
+  "scoreBack": "900.000 s"
+}

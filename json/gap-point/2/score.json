@@ -1,0 +1,281 @@
+[
+  [
+    [
+      "104",
+      "Derreck Turner"
+    ],
+    {
+      "breakdown": {
+        "time": 367.2,
+        "reach": 191.806,
+        "distance": 383.612,
+        "leading": 91.8,
+        "effort": 191.806,
+        "arrival": 65.6
+      },
+      "stoppedAlt": null,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2016-08-08T19:00:00Z",
+        "ssVelocity": "51.01 km / h",
+        "ssElapsed": "2.088889 h",
+        "gsElapsed": "2.090556 h",
+        "es": "2016-08-08T21:05:26Z",
+        "ss": "2016-08-08T19:00:06Z",
+        "ssDistance": "106.563 km",
+        "gsVelocity": "51.00 km / h"
+      },
+      "total": 908,
+      "landedDistance": "116.160 km",
+      "penalties": [],
+      "place": "1",
+      "reachDistance": "116.160 km"
+    }
+  ],
+  [
+    [
+      "110",
+      "Bruce Barmakian"
+    ],
+    {
+      "breakdown": {
+        "time": 292.3,
+        "reach": 191.806,
+        "distance": 383.612,
+        "leading": 17.6,
+        "effort": 191.806,
+        "arrival": 26.6
+      },
+      "stoppedAlt": null,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2016-08-08T19:20:00Z",
+        "ssVelocity": "47.94 km / h",
+        "ssElapsed": "2.222778 h",
+        "gsElapsed": "2.223889 h",
+        "es": "2016-08-08T21:33:26Z",
+        "ss": "2016-08-08T19:20:04Z",
+        "ssDistance": "106.563 km",
+        "gsVelocity": "47.90 km / h"
+      },
+      "total": 720,
+      "landedDistance": "116.160 km",
+      "penalties": [],
+      "place": "2",
+      "reachDistance": "116.160 km"
+    }
+  ],
+  [
+    [
+      "103",
+      "Kevin Carter"
+    ],
+    {
+      "breakdown": {
+        "time": 221.3,
+        "reach": 191.806,
+        "distance": 383.612,
+        "leading": 47.5,
+        "effort": 191.806,
+        "arrival": 41.8
+      },
+      "stoppedAlt": null,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2016-08-08T19:00:00Z",
+        "ssVelocity": "44.98 km / h",
+        "ssElapsed": "2.369167 h",
+        "gsElapsed": "2.452778 h",
+        "es": "2016-08-08T21:27:10Z",
+        "ss": "2016-08-08T19:05:01Z",
+        "ssDistance": "106.563 km",
+        "gsVelocity": "43.50 km / h"
+      },
+      "total": 694,
+      "landedDistance": "116.160 km",
+      "penalties": [],
+      "place": "3",
+      "reachDistance": "116.160 km"
+    }
+  ],
+  [
+    [
+      "106",
+      "Larry Bunner"
+    ],
+    {
+      "breakdown": {
+        "time": 205.9,
+        "reach": 191.806,
+        "distance": 383.612,
+        "leading": 17.9,
+        "effort": 191.806,
+        "arrival": 18.1
+      },
+      "stoppedAlt": null,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2016-08-08T19:20:00Z",
+        "ssVelocity": "42.54 km / h",
+        "ssElapsed": "2.505000 h",
+        "gsElapsed": "2.511667 h",
+        "es": "2016-08-08T21:50:42Z",
+        "ss": "2016-08-08T19:20:24Z",
+        "ssDistance": "106.563 km",
+        "gsVelocity": "42.40 km / h"
+      },
+      "total": 626,
+      "landedDistance": "116.160 km",
+      "penalties": [],
+      "place": "4",
+      "reachDistance": "116.160 km"
+    }
+  ],
+  [
+    [
+      "108",
+      "David Whittle"
+    ],
+    {
+      "breakdown": {
+        "time": 108.5,
+        "reach": 191.806,
+        "distance": 383.612,
+        "leading": 16,
+        "effort": 191.806,
+        "arrival": 14.3
+      },
+      "stoppedAlt": null,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2016-08-08T19:00:00Z",
+        "ssVelocity": "36.87 km / h",
+        "ssElapsed": "2.890556 h",
+        "gsElapsed": "2.945556 h",
+        "es": "2016-08-08T21:56:44Z",
+        "ss": "2016-08-08T19:03:18Z",
+        "ssDistance": "106.563 km",
+        "gsVelocity": "36.20 km / h"
+      },
+      "total": 522,
+      "landedDistance": "116.160 km",
+      "penalties": [],
+      "place": "5",
+      "reachDistance": "116.160 km"
+    }
+  ],
+  [
+    [
+      "102",
+      "Tom McGowan"
+    ],
+    {
+      "breakdown": {
+        "time": 0,
+        "reach": 115.797,
+        "distance": 307.603,
+        "leading": 19.2,
+        "effort": 191.806,
+        "arrival": 0
+      },
+      "stoppedAlt": "872.000 m",
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2016-08-08T19:00:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2016-08-08T19:00:26Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 327,
+      "landedDistance": "69.843 km",
+      "penalties": [],
+      "place": "6",
+      "reachDistance": "70.128 km"
+    }
+  ],
+  [
+    [
+      "105",
+      "Cory Barnwell"
+    ],
+    {
+      "breakdown": {
+        "time": 0,
+        "reach": 60.864,
+        "distance": 220.703,
+        "leading": 0,
+        "effort": 159.838,
+        "arrival": 0
+      },
+      "stoppedAlt": "808.000 m",
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2016-08-08T19:00:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2016-08-08T19:00:02Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 221,
+      "landedDistance": "36.706 km",
+      "penalties": [],
+      "place": "7",
+      "reachDistance": "36.860 km"
+    }
+  ],
+  [
+    [
+      "107",
+      "Anna Eppink"
+    ],
+    {
+      "breakdown": {
+        "time": 0,
+        "reach": 8.256,
+        "distance": 104.159,
+        "leading": 0,
+        "effort": 95.903,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "penaltyReason": "",
+      "velocity": null,
+      "total": 104,
+      "landedDistance": "4.999 km",
+      "penalties": [],
+      "place": "8=",
+      "reachDistance": "4.999 km"
+    }
+  ],
+  [
+    [
+      "109",
+      "Jay Devorak"
+    ],
+    {
+      "breakdown": {
+        "time": 0,
+        "reach": 8.256,
+        "distance": 104.159,
+        "leading": 0,
+        "effort": 95.903,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "penaltyReason": "",
+      "velocity": null,
+      "total": 104,
+      "landedDistance": "4.999 km",
+      "penalties": [],
+      "place": "8=",
+      "reachDistance": "4.999 km"
+    }
+  ]
+]

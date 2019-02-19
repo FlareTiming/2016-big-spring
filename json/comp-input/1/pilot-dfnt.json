@@ -1,0 +1,17 @@
+[
+  {
+    "awardedReach": {
+      "awardedFrac": 0.8047527752136145,
+      "awardedMade": "102.000000 km",
+      "awardedTask": "126.747000 km"
+    },
+    "pilot": [
+      "107",
+      "Anna Eppink"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2016-08-07T20:00:00Z"
+    }
+  }
+]

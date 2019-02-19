@@ -1,0 +1,32 @@
+[
+  {
+    "awardedReach": {
+      "awardedFrac": 0.04303888994095064,
+      "awardedMade": "5.000000 km",
+      "awardedTask": "116.174000 km"
+    },
+    "pilot": [
+      "107",
+      "Anna Eppink"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0.04303888994095064,
+      "awardedMade": "5.000000 km",
+      "awardedTask": "116.174000 km"
+    },
+    "pilot": [
+      "109",
+      "Jay Devorak"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2016-08-08T19:00:00Z"
+    }
+  }
+]
