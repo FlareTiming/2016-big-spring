@@ -1,0 +1,42 @@
+[
+  [
+    [
+      "102",
+      "Tom McGowan"
+    ],
+    {
+      "frac": 1,
+      "effort": "69.843000 km"
+    }
+  ],
+  [
+    [
+      "105",
+      "Cory Barnwell"
+    ],
+    {
+      "frac": 0.83333334,
+      "effort": "36.706000 km"
+    }
+  ],
+  [
+    [
+      "109",
+      "Jay Devorak"
+    ],
+    {
+      "frac": 0.5,
+      "effort": "5.000000 km"
+    }
+  ],
+  [
+    [
+      "107",
+      "Anna Eppink"
+    ],
+    {
+      "frac": 0.5,
+      "effort": "5.000000 km"
+    }
+  ]
+]
