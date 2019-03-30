@@ -16,7 +16,7 @@
           "lat": 32.2176,
           "zoneName": "BIGSPR",
           "lng": -101.5249,
-          "give": "9950.0 m",
+          "give": null,
           "alt": "771.000 m"
         },
         {
@@ -24,7 +24,7 @@
           "lat": 32.6977,
           "zoneName": "WINSTN",
           "lng": -100.9506,
-          "give": "1005.0 m",
+          "give": null,
           "alt": "701.000 m"
         },
         {
@@ -32,7 +32,7 @@
           "lat": 32.8238,
           "zoneName": "FISH",
           "lng": -100.4131,
-          "give": "402.0 m",
+          "give": null,
           "alt": "591.000 m"
         },
         {
@@ -40,7 +40,7 @@
           "lat": 32.8238,
           "zoneName": "FISH",
           "lng": -100.4131,
-          "give": "398.0 m",
+          "give": null,
           "alt": "591.000 m"
         }
       ],
@@ -152,7 +152,7 @@
           "lat": 32.2176,
           "zoneName": "BIGSPR",
           "lng": -101.5249,
-          "give": "9950.0 m",
+          "give": null,
           "alt": "771.000 m"
         },
         {
@@ -160,7 +160,7 @@
           "lat": 32.40552,
           "zoneName": "12T",
           "lng": -101.33923,
-          "give": "402.0 m",
+          "give": null,
           "alt": "762.000 m"
         },
         {
@@ -168,7 +168,7 @@
           "lat": 32.52643,
           "zoneName": "ACKERL",
           "lng": -101.71603,
-          "give": "1005.0 m",
+          "give": null,
           "alt": "846.000 m"
         },
         {
@@ -176,7 +176,7 @@
           "lat": 32.7887,
           "zoneName": "GAIL",
           "lng": -101.5261,
-          "give": "10050.0 m",
+          "give": null,
           "alt": "808.000 m"
         },
         {
@@ -184,7 +184,7 @@
           "lat": 32.7592,
           "zoneName": "LAMESA",
           "lng": -101.9192,
-          "give": "402.0 m",
+          "give": null,
           "alt": "914.000 m"
         },
         {
@@ -192,7 +192,7 @@
           "lat": 32.7592,
           "zoneName": "LAMESA",
           "lng": -101.9192,
-          "give": "398.0 m",
+          "give": null,
           "alt": "914.000 m"
         }
       ],
@@ -307,7 +307,7 @@
           "lat": 32.2176,
           "zoneName": "BIGSPR",
           "lng": -101.5249,
-          "give": "9950.0 m",
+          "give": null,
           "alt": "771.000 m"
         },
         {
@@ -315,7 +315,7 @@
           "lat": 32.6977,
           "zoneName": "WINSTN",
           "lng": -100.9506,
-          "give": "5025.0 m",
+          "give": null,
           "alt": "701.000 m"
         },
         {
@@ -323,7 +323,7 @@
           "lat": 33.6361,
           "zoneName": "GUTHRI",
           "lng": -100.3494,
-          "give": "402.0 m",
+          "give": null,
           "alt": "540.000 m"
         },
         {
@@ -331,7 +331,7 @@
           "lat": 33.6361,
           "zoneName": "GUTHRI",
           "lng": -100.3494,
-          "give": "398.0 m",
+          "give": null,
           "alt": "540.000 m"
         }
       ],

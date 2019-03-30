@@ -1,40 +1,25 @@
 [
   [
     [
-      "107",
-      "Anna Eppink"
+      "104",
+      "Derreck Turner"
     ],
     {
-      "ssElapsed": null,
-      "time": 0,
-      "distance": 42.5,
-      "distanceMade": "5.000000 km",
-      "es": null,
-      "leading": 0,
-      "total": 43,
-      "distanceFrac": 0.04303888994095064,
-      "ss": null,
-      "arrival": 0,
-      "place": "9"
-    }
-  ],
-  [
-    [
-      "109",
-      "Jay Devorak"
-    ],
-    {
-      "ssElapsed": null,
-      "time": 0,
-      "distance": 42.5,
-      "distanceMade": "5.000000 km",
-      "es": null,
-      "leading": 0,
-      "total": 43,
-      "distanceFrac": 0.04303888994095064,
+      "timeElapsed": "2.090278 h",
+      "leadingFrac": 1,
+      "time": 426.4,
+      "distance": 390.9,
+      "leadingCoef": 1.42772259,
+      "distanceMade": "116.174000 km",
+      "es": "2016-08-08T21:05:25Z",
+      "leading": 106.6,
+      "total": 1000,
+      "distanceFrac": 1,
       "ss": "2016-08-08T19:00:00Z",
-      "arrival": 0,
-      "place": "9"
+      "timeFrac": 1,
+      "leadingArea": "29186512.0000 km^2 s",
+      "arrival": 76.1,
+      "place": "1"
     }
   ],
   [
@@ -43,36 +28,44 @@
       "Davis Straub"
     ],
     {
-      "ssElapsed": "2.098056 h",
+      "timeElapsed": "2.098056 h",
+      "leadingFrac": 0.9793621,
       "time": 413.3,
       "distance": 390.9,
+      "leadingCoef": 1.43117874,
       "distanceMade": "116.174000 km",
       "es": "2016-08-08T21:05:53Z",
       "leading": 104.4,
       "total": 961,
       "distanceFrac": 1,
       "ss": "2016-08-08T19:00:00Z",
+      "timeFrac": 0.96929783,
+      "leadingArea": "29257165.0000 km^2 s",
       "arrival": 52.3,
       "place": "2"
     }
   ],
   [
     [
-      "102",
-      "Tom McGowan"
+      "110",
+      "Bruce Barmakian"
     ],
     {
-      "ssElapsed": null,
-      "time": 0,
-      "distance": 313.3,
-      "distanceMade": "70.033000 km",
-      "es": null,
-      "leading": 17.9,
-      "total": 331,
-      "distanceFrac": 0.6028285158469193,
-      "ss": "2016-08-08T19:00:00Z",
-      "arrival": 0,
-      "place": "7"
+      "timeElapsed": "2.223611 h",
+      "leadingFrac": 0.13414634,
+      "time": 339.3,
+      "distance": 390.9,
+      "leadingCoef": 2.38987366,
+      "distanceMade": "116.174000 km",
+      "es": "2016-08-08T21:33:25Z",
+      "leading": 14.3,
+      "total": 770,
+      "distanceFrac": 1,
+      "ss": "2016-08-08T19:20:00Z",
+      "timeFrac": 0.79587737,
+      "leadingArea": "48855482.0000 km^2 s",
+      "arrival": 25.1,
+      "place": "3"
     }
   ],
   [
@@ -81,55 +74,21 @@
       "Kevin Carter"
     ],
     {
-      "ssElapsed": "2.452500 h",
+      "timeElapsed": "2.452500 h",
+      "leadingFrac": 0.48874296,
       "time": 256.9,
       "distance": 390.9,
+      "leadingCoef": 1.86371165,
       "distanceMade": "116.174000 km",
       "es": "2016-08-08T21:27:09Z",
       "leading": 52.1,
       "total": 736,
       "distanceFrac": 1,
       "ss": "2016-08-08T19:00:00Z",
+      "timeFrac": 0.60258091,
+      "leadingArea": "38099308.0000 km^2 s",
       "arrival": 35.8,
       "place": "4"
-    }
-  ],
-  [
-    [
-      "104",
-      "Derreck Turner"
-    ],
-    {
-      "ssElapsed": "2.090278 h",
-      "time": 426.4,
-      "distance": 390.9,
-      "distanceMade": "116.174000 km",
-      "es": "2016-08-08T21:05:25Z",
-      "leading": 106.6,
-      "total": 1000,
-      "distanceFrac": 1,
-      "ss": "2016-08-08T19:00:00Z",
-      "arrival": 76.1,
-      "place": "1"
-    }
-  ],
-  [
-    [
-      "105",
-      "Cory Barnwell"
-    ],
-    {
-      "ssElapsed": null,
-      "time": 0,
-      "distance": 201.8,
-      "distanceMade": "36.770000 km",
-      "es": null,
-      "leading": 0,
-      "total": 202,
-      "distanceFrac": 0.316507996625751,
-      "ss": "2016-08-08T19:00:00Z",
-      "arrival": 0,
-      "place": "8"
     }
   ],
   [
@@ -138,15 +97,19 @@
       "Larry Bunner"
     ],
     {
-      "ssElapsed": "2.511389 h",
+      "timeElapsed": "2.511389 h",
+      "leadingFrac": 0.1369606,
       "time": 239,
       "distance": 390.9,
+      "leadingCoef": 2.38545328,
       "distanceMade": "116.174000 km",
       "es": "2016-08-08T21:50:41Z",
       "leading": 14.6,
       "total": 664,
       "distanceFrac": 1,
       "ss": "2016-08-08T19:20:00Z",
+      "timeFrac": 0.56059688,
+      "leadingArea": "48765118.0000 km^2 s",
       "arrival": 19.1,
       "place": "5"
     }
@@ -157,36 +120,113 @@
       "David Whittle"
     ],
     {
-      "ssElapsed": "2.945278 h",
+      "timeElapsed": "2.945278 h",
+      "leadingFrac": 0.12382739,
       "time": 126,
       "distance": 390.9,
+      "leadingCoef": 2.40770032,
       "distanceMade": "116.174000 km",
       "es": "2016-08-08T21:56:43Z",
       "leading": 13.2,
       "total": 546,
       "distanceFrac": 1,
       "ss": "2016-08-08T19:00:00Z",
+      "timeFrac": 0.29545391,
+      "leadingArea": "49219907.0000 km^2 s",
       "arrival": 16.2,
       "place": "6"
     }
   ],
   [
     [
-      "110",
-      "Bruce Barmakian"
+      "102",
+      "Tom McGowan"
     ],
     {
-      "ssElapsed": "2.223611 h",
-      "time": 339.3,
-      "distance": 390.9,
-      "distanceMade": "116.174000 km",
-      "es": "2016-08-08T21:33:25Z",
-      "leading": 14.3,
-      "total": 770,
-      "distanceFrac": 1,
-      "ss": "2016-08-08T19:20:00Z",
-      "arrival": 25.1,
-      "place": "3"
+      "timeElapsed": null,
+      "leadingFrac": 0.16791745,
+      "time": 0,
+      "distance": 313.3,
+      "leadingCoef": 2.33510253,
+      "distanceMade": "70.033000 km",
+      "es": null,
+      "leading": 17.9,
+      "total": 331,
+      "distanceFrac": 0.6028285158469193,
+      "ss": "2016-08-08T19:00:00Z",
+      "timeFrac": 0,
+      "leadingArea": "47735812.0000 km^2 s",
+      "arrival": 0,
+      "place": "7"
+    }
+  ],
+  [
+    [
+      "105",
+      "Cory Barnwell"
+    ],
+    {
+      "timeElapsed": null,
+      "leadingFrac": 0,
+      "time": 0,
+      "distance": 201.8,
+      "leadingCoef": 3.45593637,
+      "distanceMade": "36.770000 km",
+      "es": null,
+      "leading": 0,
+      "total": 202,
+      "distanceFrac": 0.316507996625751,
+      "ss": "2016-08-08T19:00:00Z",
+      "timeFrac": 0,
+      "leadingArea": "70648688.0000 km^2 s",
+      "arrival": 0,
+      "place": "8"
+    }
+  ],
+  [
+    [
+      "109",
+      "Jay Devorak"
+    ],
+    {
+      "timeElapsed": null,
+      "leadingFrac": 0,
+      "time": 0,
+      "distance": 42.5,
+      "leadingCoef": 0,
+      "distanceMade": "5.000000 km",
+      "es": null,
+      "leading": 0,
+      "total": 43,
+      "distanceFrac": 0.04303888994095064,
+      "ss": "2016-08-08T19:00:00Z",
+      "timeFrac": 0,
+      "leadingArea": "0.0000 km^2 s",
+      "arrival": 0,
+      "place": "9"
+    }
+  ],
+  [
+    [
+      "107",
+      "Anna Eppink"
+    ],
+    {
+      "timeElapsed": null,
+      "leadingFrac": 0,
+      "time": 0,
+      "distance": 42.5,
+      "leadingCoef": 0,
+      "distanceMade": "5.000000 km",
+      "es": null,
+      "leading": 0,
+      "total": 43,
+      "distanceFrac": 0.04303888994095064,
+      "ss": null,
+      "timeFrac": 0,
+      "leadingArea": "0.0000 km^2 s",
+      "arrival": 0,
+      "place": "9"
     }
   ]
 ]
