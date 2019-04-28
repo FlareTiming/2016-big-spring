@@ -5,7 +5,7 @@
       "Kevin Carter"
     ],
     {
-      "reach": "192.210227 km",
+      "reach": "192.209966 km",
       "frac": 1
     }
   ],
@@ -15,7 +15,7 @@
       "Bruce Barmakian"
     ],
     {
-      "reach": "192.210227 km",
+      "reach": "192.209966 km",
       "frac": 1
     }
   ],
@@ -25,7 +25,7 @@
       "Larry Bunner"
     ],
     {
-      "reach": "192.210227 km",
+      "reach": "192.209966 km",
       "frac": 1
     }
   ],
@@ -35,7 +35,7 @@
       "Derreck Turner"
     ],
     {
-      "reach": "192.210227 km",
+      "reach": "192.209966 km",
       "frac": 1
     }
   ],
@@ -45,7 +45,7 @@
       "Cory Barnwell"
     ],
     {
-      "reach": "192.210227 km",
+      "reach": "192.209966 km",
       "frac": 1
     }
   ],
@@ -55,8 +55,8 @@
       "Anna Eppink"
     ],
     {
-      "reach": "150.617227 km",
-      "frac": 0.78360673
+      "reach": "150.616966 km",
+      "frac": 0.78360643
     }
   ],
   [
@@ -65,8 +65,8 @@
       "David Whittle"
     ],
     {
-      "reach": "92.345227 km",
-      "frac": 0.48043868
+      "reach": "92.344966 km",
+      "frac": 0.48043797
     }
   ],
   [
@@ -75,8 +75,8 @@
       "Tom McGowan"
     ],
     {
-      "reach": "76.339227 km",
-      "frac": 0.39716527
+      "reach": "76.338966 km",
+      "frac": 0.39716445
     }
   ],
   [
@@ -85,8 +85,8 @@
       "Jay Devorak"
     ],
     {
-      "reach": "62.362227 km",
-      "frac": 0.32444802
+      "reach": "62.361966 km",
+      "frac": 0.3244471
     }
   ],
   [
@@ -95,8 +95,8 @@
       "Davis Straub"
     ],
     {
-      "reach": "25.991227 km",
-      "frac": 0.13522291
+      "reach": "25.990966 km",
+      "frac": 0.13522174
     }
   ]
 ]
