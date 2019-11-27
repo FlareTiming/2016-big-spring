@@ -1,0 +1,81 @@
+{
+  "chunking": {
+    "endChunk": [
+      1171,
+      "117.1 km"
+    ],
+    "startChunk": [
+      0,
+      "0.0 km"
+    ],
+    "sumOf": 1169
+  },
+  "bestDistance": "116.154314 km",
+  "difficulty": [
+    {
+      "endChunk": "5.1 km",
+      "down": 2,
+      "chunk": 50,
+      "startChunk": "5.0 km",
+      "frac": 0.08725406,
+      "downers": [
+        [
+          "109",
+          "Jay Devorak"
+        ],
+        [
+          "107",
+          "Anna Eppink"
+        ]
+      ],
+      "downward": 4,
+      "rel": 0.00171086,
+      "endAhead": "92.2 km",
+      "downs": [
+        "5.000 km",
+        "5.000 km"
+      ]
+    },
+    {
+      "endChunk": "36.8 km",
+      "down": 1,
+      "chunk": 367,
+      "startChunk": "36.7 km",
+      "frac": 0.35842601,
+      "downers": [
+        [
+          "105",
+          "Cory Barnwell"
+        ]
+      ],
+      "downward": 2,
+      "rel": 0.00085543,
+      "endAhead": "123.9 km",
+      "downs": [
+        "36.704 km"
+      ]
+    },
+    {
+      "endChunk": "69.9 km",
+      "down": 1,
+      "chunk": 698,
+      "startChunk": "69.8 km",
+      "frac": 0.5,
+      "downers": [
+        [
+          "102",
+          "Tom McGowan"
+        ]
+      ],
+      "downward": 1,
+      "rel": 0.00042772,
+      "endAhead": "157.0 km",
+      "downs": [
+        "69.841 km"
+      ]
+    }
+  ],
+  "lookahead": 871,
+  "minDistance": "5.000 km",
+  "landout": 4
+}

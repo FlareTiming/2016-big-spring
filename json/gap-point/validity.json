@@ -3,18 +3,21 @@
     "time": 1,
     "launch": 1,
     "distance": 1,
-    "task": 1
+    "task": 1,
+    "stop": null
   },
   {
     "time": 1,
     "launch": 1,
     "distance": 0.908,
-    "task": 0.908
+    "task": 0.908,
+    "stop": null
   },
   {
     "time": 1,
     "launch": 1,
     "distance": 1,
-    "task": 1
+    "task": 1,
+    "stop": null
   }
 ]

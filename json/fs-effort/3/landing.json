@@ -1,0 +1,114 @@
+{
+  "chunking": {
+    "endChunk": [
+      1932,
+      "193.2 km"
+    ],
+    "startChunk": [
+      0,
+      "0.0 km"
+    ],
+    "sumOf": 3724
+  },
+  "bestDistance": null,
+  "difficulty": [
+    {
+      "endChunk": "26.0 km",
+      "down": 1,
+      "chunk": 259,
+      "startChunk": "25.9 km",
+      "frac": 0.1396348,
+      "downers": [
+        [
+          "101",
+          "Davis Straub"
+        ]
+      ],
+      "downward": 3,
+      "rel": 0.00053706,
+      "endAhead": "141.2 km",
+      "downs": [
+        "25.991 km"
+      ]
+    },
+    {
+      "endChunk": "62.3 km",
+      "down": 1,
+      "chunk": 622,
+      "startChunk": "62.2 km",
+      "frac": 0.32196563,
+      "downers": [
+        [
+          "109",
+          "Jay Devorak"
+        ]
+      ],
+      "downward": 3,
+      "rel": 0.00053706,
+      "endAhead": "177.5 km",
+      "downs": [
+        "62.297 km"
+      ]
+    },
+    {
+      "endChunk": "76.4 km",
+      "down": 1,
+      "chunk": 763,
+      "startChunk": "76.3 km",
+      "frac": 0.3787594,
+      "downers": [
+        [
+          "102",
+          "Tom McGowan"
+        ]
+      ],
+      "downward": 2,
+      "rel": 0.00040279,
+      "endAhead": "191.6 km",
+      "downs": [
+        "76.359 km"
+      ]
+    },
+    {
+      "endChunk": "92.4 km",
+      "down": 1,
+      "chunk": 923,
+      "startChunk": "92.3 km",
+      "frac": 0.42172395,
+      "downers": [
+        [
+          "108",
+          "David Whittle"
+        ]
+      ],
+      "downward": 1,
+      "rel": 0.00026853,
+      "endAhead": "207.6 km",
+      "downs": [
+        "92.345 km"
+      ]
+    },
+    {
+      "endChunk": "150.7 km",
+      "down": 1,
+      "chunk": 1506,
+      "startChunk": "150.6 km",
+      "frac": 0.5,
+      "downers": [
+        [
+          "107",
+          "Anna Eppink"
+        ]
+      ],
+      "downward": 0,
+      "rel": 0.00013426,
+      "endAhead": "265.9 km",
+      "downs": [
+        "150.616 km"
+      ]
+    }
+  ],
+  "lookahead": 1153,
+  "minDistance": "0.000 km",
+  "landout": 5
+}

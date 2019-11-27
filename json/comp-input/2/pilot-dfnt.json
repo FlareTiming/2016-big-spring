@@ -1,9 +1,16 @@
 [
   {
     "awardedReach": {
-      "awardedFrac": 0.04303888994095064,
-      "awardedMade": "5.000000 km",
-      "awardedTask": "116.174000 km"
+      "extra": {
+        "awardedFrac": 0.04303888994095064,
+        "awardedMade": "5.000000 km",
+        "awardedTask": "116.174000 km"
+      },
+      "flown": {
+        "awardedFrac": 0.04303888994095064,
+        "awardedMade": "5.000000 km",
+        "awardedTask": "116.174000 km"
+      }
     },
     "pilot": [
       "107",
@@ -16,9 +23,16 @@
   },
   {
     "awardedReach": {
-      "awardedFrac": 0.04303888994095064,
-      "awardedMade": "5.000000 km",
-      "awardedTask": "116.174000 km"
+      "extra": {
+        "awardedFrac": 0.04303888994095064,
+        "awardedMade": "5.000000 km",
+        "awardedTask": "116.174000 km"
+      },
+      "flown": {
+        "awardedFrac": 0.04303888994095064,
+        "awardedMade": "5.000000 km",
+        "awardedTask": "116.174000 km"
+      }
     },
     "pilot": [
       "109",

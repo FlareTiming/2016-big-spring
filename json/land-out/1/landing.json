@@ -1,0 +1,76 @@
+{
+  "chunking": {
+    "endChunk": [
+      1271,
+      "127.1 km"
+    ],
+    "startChunk": [
+      0,
+      "0.0 km"
+    ],
+    "sumOf": 2273
+  },
+  "bestDistance": "126.747570 km",
+  "difficulty": [
+    {
+      "endChunk": "24.9 km",
+      "down": 1,
+      "chunk": 248,
+      "startChunk": "24.8 km",
+      "frac": 0.16432028,
+      "downers": [
+        [
+          "106",
+          "Larry Bunner"
+        ]
+      ],
+      "downward": 3,
+      "rel": 0.00065992,
+      "endAhead": "151.6 km",
+      "downs": [
+        "24.828 km"
+      ]
+    },
+    {
+      "endChunk": "100.3 km",
+      "down": 1,
+      "chunk": 1002,
+      "startChunk": "100.2 km",
+      "frac": 0.49604048,
+      "downers": [
+        [
+          "109",
+          "Jay Devorak"
+        ]
+      ],
+      "downward": 2,
+      "rel": 0.00043995,
+      "endAhead": "227.0 km",
+      "downs": [
+        "100.219 km"
+      ]
+    },
+    {
+      "endChunk": "102.1 km",
+      "down": 1,
+      "chunk": 1020,
+      "startChunk": "102.0 km",
+      "frac": 0.5,
+      "downers": [
+        [
+          "107",
+          "Anna Eppink"
+        ]
+      ],
+      "downward": 1,
+      "rel": 0.00021997,
+      "endAhead": "228.8 km",
+      "downs": [
+        "102.000 km"
+      ]
+    }
+  ],
+  "lookahead": 1267,
+  "minDistance": "5.000 km",
+  "landout": 3
+}
