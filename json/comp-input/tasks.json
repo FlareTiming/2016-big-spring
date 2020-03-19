@@ -109,13 +109,16 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": true
     },
     "startGates": [
       "2016-08-07T19:30:00Z",
       "2016-08-07T19:50:00Z"
     ],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
@@ -140,6 +143,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "3 s",
       "earliest": "300 s"
     }
@@ -290,14 +294,17 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": true
     },
     "startGates": [
       "2016-08-08T19:00:00Z",
       "2016-08-08T19:20:00Z",
       "2016-08-08T19:40:00Z"
     ],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
@@ -306,6 +313,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "3 s",
       "earliest": "300 s"
     }
@@ -420,14 +428,30 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": true
     },
     "startGates": [
       "2016-08-11T19:00:00Z",
       "2016-08-11T19:15:00Z",
       "2016-08-11T19:30:00Z",
       "2016-08-11T19:45:00Z"
+    ],
+    "penalsAuto": [
+      [
+        [
+          "102",
+          "Tom McGowan"
+        ],
+        [
+          {
+            "penalty-points": 60
+          }
+        ],
+        "Jumped the gun by 3:00"
+      ]
     ],
     "penals": [],
     "zoneTimes": [
@@ -453,6 +477,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "3 s",
       "earliest": "300 s"
     }
