@@ -445,11 +445,15 @@
           "102",
           "Tom McGowan"
         ],
-        [
-          {
-            "penalty-points": 60
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -60
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         "Jumped the gun by 3:00"
       ]
     ],

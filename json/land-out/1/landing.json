@@ -17,7 +17,7 @@
       "down": 1,
       "chunk": 248,
       "startChunk": "24.8 km",
-      "frac": 0.16432028,
+      "frac": 0.16430664,
       "downers": [
         [
           "106",
@@ -36,7 +36,7 @@
       "down": 1,
       "chunk": 1002,
       "startChunk": "100.2 km",
-      "frac": 0.49604048,
+      "frac": 0.49609375,
       "downers": [
         [
           "109",
